@@ -16,7 +16,14 @@ DATA_STRUCTURES_PROJECTS/
 ├── bank_dict_system.py           # Core banking system using hash map lookups and P2P transfers
 ├── student_dict_system.py        # Academic CRUD record manager indexed by enrollment number
 ├── contact_book_dict.py          # Phone and address book with custom masked alphanumeric IDs
-└── generators.py                 # Randomized unique account number and contact ID generator utilities
+├── generators.py                 # Randomized unique account number and contact ID generator utilities
+└── Classroom Foundations:
+    ├── dictonary intro(COM).py       # Classroom notes & demonstrations for dictionaries
+    ├── tupl intro(COM).py            # Classroom notes & demonstrations for tuples
+    ├── dictonary(bank main menu)(COM).py
+    ├── dictonary (student main menu)(COM).py
+    ├── dictonary (contact list ).py
+    └── List nested loop main menu(COM).py
 ```
 
 ---
