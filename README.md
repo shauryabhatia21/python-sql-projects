@@ -56,7 +56,10 @@ python-sql-projects/
 ├── STUDENT_MANAGEMENT_SQL/     # Student Information System (Tkinter GUI Form + Console CRUD)
 ├── BANK_MANAGEMENT_SQL/        # Core Banking System backed by MySQL Relational Database
 ├── OOPS_PROJECTS/              # Object-Oriented Architecture (Inheritance, Polymorphism, Encapsulation)
-├── DATA_STRUCTURES_PROJECTS/   # In-Memory Hash Maps, Generators, and Custom Record Systems
+├── OOP_AND_CORE_FOUNDATIONS/   # Complete OOP suite (SBI Bank Engine, Inheritance, Inner Classes, Exceptions)
+├── DATA_STRUCTURES_PROJECTS/   # Dynamic Lists, Hash Maps (Dictionaries), Tuples, and Classroom Foundations
+├── RETRO_ARCADE_GAMES/         # 2D Pygame Arcade Suite (Space Invaders, Commando, Racing, Tic-Tac-Toe)
+├── C_PROGRAMMING_FOUNDATIONS/  # Foundational C Programming (Arithmetic, Switch-Case, For/While Loops)
 ├── FILE_HANDLING_PROJECTS/     # Binary Pickle Object Serialization & CSV File Streaming
 ├── NUMPY_DATA_SCIENCE/         # Multidimensional Array Mathematics & 12+ Statistical Visualizations
 ├── PYTHON_BASICS_ALGORITHMS/   # String Algorithms, Nested Matrix Loops & Exception Handling

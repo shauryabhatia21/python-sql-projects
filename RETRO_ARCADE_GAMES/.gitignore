@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Game save states
+*_save.json
+commando_save.json
+galaxy_striker_save.json
+turbo_rush_save.json
+
+# OS files
+.DS_Store
+Thumbs.db
