@@ -1,11 +1,11 @@
 # 🚀 Python & SQL Engineering Portfolio
 
-[![Verification Status](https://img.shields.io/badge/Verification-100%25_Bytecode_Passed-success?style=for-the-badge&logo=python&logoColor=white)](https://github.com/shauryabhatia10/python-sql-projects)
+[![Verification Status](https://img.shields.io/badge/Verification-100%25_Bytecode_Passed-success?style=for-the-badge&logo=python&logoColor=white)](https://github.com/shauryabhatia21/python-sql-projects)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Database](https://img.shields.io/badge/Database-MySQL_8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-A production-grade, multi-tier software engineering suite featuring relational database systems, applied artificial intelligence algorithms, desktop graphical user interfaces, data structures, scientific computing, and file persistence engines built by **[Shaurya Bhatia](https://github.com/shauryabhatia10)**.
+A production-grade, multi-tier software engineering suite featuring relational database systems, applied artificial intelligence algorithms, desktop graphical user interfaces, data structures, scientific computing, and file persistence engines built by **[Shaurya Bhatia](https://github.com/shauryabhatia21)**.
 
 ---
 
@@ -166,7 +166,7 @@ Compiling 'TKINTER_GUI_APPS'...
 ### 2. Environment Setup
 ```powershell
 # Clone the repository
-git clone https://github.com/shauryabhatia10/python-sql-projects.git
+git clone https://github.com/shauryabhatia21/python-sql-projects.git
 cd python-sql-projects
 
 # Install required external dependencies
@@ -197,6 +197,6 @@ This repository is distributed under the **[MIT License](./LICENSE)**. Free for 
 ---
 
 <div align="center">
-  <b>Author: [Shaurya Bhatia](https://github.com/shauryabhatia10)</b><br/>
+  <b>Author: [Shaurya Bhatia](https://github.com/shauryabhatia21)</b><br/>
   <i>Crafted with precision, algorithmic rigor, and clean architecture.</i>
 </div>
