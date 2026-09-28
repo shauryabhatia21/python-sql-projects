@@ -51,7 +51,7 @@ class CalFuel:
 
 if __name__ == "__main__":
     print("--- 1. Student Class Instances ---")
-    s1 = Student(101, 'Shaurya Bhatia', 'Artificial Intelligence', 85000)
+    s1 = Student(101, 'Shaurya Bhatia', 'Computer Science & Engineering', 85000)
     s1.showDetail()
 
     s2 = Student(102, 'Abhinav Sharma', 'Machine Learning', 75000)

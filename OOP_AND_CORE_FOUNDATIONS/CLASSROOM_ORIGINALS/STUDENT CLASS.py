@@ -58,5 +58,5 @@ class Result(Marks):
 
 
 if __name__ == "__main__":
-    r1 = Result(101, 'Shaurya Bhatia', 'Artificial Intelligence', 85000, 94, 98)
+    r1 = Result(101, 'Shaurya Bhatia', 'Computer Science & Engineering', 85000, 94, 98)
     r1.showResult()
