@@ -1,4 +1,4 @@
-﻿# ⚙️ C Programming Foundations & Algorithms
+# ⚙️ C Programming Foundations & Algorithms
 
 [![Compiler: GCC](https://img.shields.io/badge/Compiler-GCC_MinGW-blue?style=for-the-badge&logo=gnu)](https://gcc.gnu.org/)
 [![Language: C](https://img.shields.io/badge/Language-C99%20%2F%20ANSI_C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -75,6 +75,6 @@ This repository is licensed under the **[MIT License](./LICENSE)**. Free for per
 ---
 
 <div align="center">
-  <b>Author: [Shaurya Bhatia](https://github.com/shauryabhatia10)</b><br/>
-  <i>Undergraduate in Artificial Intelligence @ Bennett University</i>
+  <b>Author: [Shaurya Bhatia](https://github.com/shauryabhatia21)</b><br/>
+  <i>B.Tech Computer Science & Engineering (CSE Core) @ Bennett University</i>
 </div>
