@@ -97,6 +97,6 @@ Compiling '.\04_EXCEPTION_HANDLING\exception_handling_suite.py'...
 ---
 
 <div align="center">
-  <b>Author: [Shaurya Bhatia](https://github.com/shauryabhatia10)</b><br/>
-  <i>Undergraduate in Artificial Intelligence @ Bennett University</i>
+  <b>Author: [Shaurya Bhatia](https://github.com/shauryabhatia21)</b><br/>
+  <i>B.Tech Computer Science & Engineering (CSE Core) @ Bennett University</i>
 </div>
